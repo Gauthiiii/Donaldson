@@ -1,0 +1,4 @@
+# storing API data
+api_key = "5XEm6dwLSiVeo62HffqkzAVtC"
+api_secret = "Jd5PogbnQbUMMARPDfYUlRDWjH086CctoeuswQrS9twVQlNdvH"
+bearer_token = "AAAAAAAAAAAAAAAAAAAAAEo6hgEAAAAAh8nvljva3ZA1Dbrc%2BhGNZ4eGpV8%3DUL26YBf4KtXoIi9lhcSXvCbUc4Csbo0wdpZu8ojNLU9qogkmg3"
